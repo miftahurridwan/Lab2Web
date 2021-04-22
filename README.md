@@ -9,3 +9,7 @@ Membuat dokumen html.
 
 ## Langkah 2
 Mendeklarasikan CSS Internal pada bagian `<head>` dokumen.
+![2](https://user-images.githubusercontent.com/56618988/115736963-eb7a4900-a3b5-11eb-8203-fbb0ed472805.jpg)
+
+## Langkah 3
+Menambahkan Inline CSS pada tag `<p>`.
