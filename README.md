@@ -13,3 +13,7 @@ Mendeklarasikan CSS Internal pada bagian `<head>` dokumen.
 
 ## Langkah 3
 Menambahkan Inline CSS pada tag `<p>`.
+![3](https://user-images.githubusercontent.com/56618988/115737324-3ac07980-a3b6-11eb-8eda-abbeb8e4a8d7.jpg)
+
+## Langkah 4
+Membuat CSS Eksternal dan menambahkan tag `<link>` pada bagian `<head>` dalam dokumen html untuk memuat dokumen css eksternal tersebut.
