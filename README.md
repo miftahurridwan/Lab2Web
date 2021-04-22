@@ -25,3 +25,10 @@ Perubahan pada tampilan browser setelah di refresh.
 ## Langkah 5
 Menambah CSS Selector dengan menggunakan ID dan Class Selector pada dokumen css eksternal.
 ![6](https://user-images.githubusercontent.com/56618988/115738074-e7026000-a3b6-11eb-8507-8f2ee3d78852.jpg)
+
+# Pertanyaan dan Tugas
+### 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
+* Pendeklarasian CSS elemen h1 akan mengubah tampilan seluruh elemen yang memiliki tag h1, sedangkan #intro h1 hanya mengubah tampilan elemen h1 yang memiliki id #intro.
+
+### 3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
+* Jika deklarasi ketiga jenis CSS berada pada elemen yang sama (contoh = ukuran font), maka deklarasi inline css lah yang akan ditampilkan oleh browser.
